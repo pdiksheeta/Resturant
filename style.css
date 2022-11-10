@@ -47,7 +47,7 @@ body , html{
 header {
     width: 100vw;
     height: 100vh;
-    background-image: url('./img/heder-bg2.png');
+    background-image: url('./heder-bg2.png');
     background-position: bottom ;
     background-size: cover;
     display: flex;
